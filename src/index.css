@@ -259,23 +259,23 @@ ul {
 /* optional overwrite */
 
 body {
-  /* background: var(--grey-400); */
-  /* background-image: radial-gradient(
-    circle,
-    #94a3b8,
-    #808fa4,
-    #6c7b90,
-    #59687c,
-    #475569
-  ); */
+  background: var(--grey-400);
   background-image: linear-gradient(
+    to right top,
+    #94a3b8,
+    #8897ad,
+    #7c8ba1,
+    #707f96,
+    #64748b
+  );
+  /* background-image: linear-gradient(
     to right top,
     #94a3b8,
     #808fa4,
     #6c7b90,
     #59687c,
     #475569
-  );
+  ); */
 }
 
 main {
@@ -317,7 +317,7 @@ main {
   width: 75px;
   height: 75px;
   border-radius: 50%;
-  box-shadow: var(--shadow-3);
+  box-shadow: var(--shadow-4);
 }
 .person h4 {
   font-weight: 500;
