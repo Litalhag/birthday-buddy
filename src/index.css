@@ -148,7 +148,7 @@ ul {
   margin-top: 0.5rem;
 }
 .btn:hover {
-  background: var(--primary-700);
+  background: var(--grey-500);
   box-shadow: var(--shadow-3);
 }
 .btn-hipster {
