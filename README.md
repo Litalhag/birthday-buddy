@@ -4,6 +4,11 @@
 
 This application, crafted during a comprehensive Udemy tutorial, presents a concise and intuitive birthday list. Users can view the list and leverage the integrated 'remove all' feature to clear entries. This project is not just about showcasing a list but emphasizing the hands-on utilization of React components and efficient data management.
 
+## Screenshots
+
+![birthday-buddy-starter](https://github.com/Litalhag/birthday-buddy/assets/130139673/21f65bce-d5a9-4003-8cdb-4418ab7c1939)
+![birthday-buddy-remove-all](https://github.com/Litalhag/birthday-buddy/assets/130139673/8c26f742-a016-418f-a2fd-9b493ea87561)
+
 ## Features
 
 - **Display Birthday List**: Neatly organized list of birthdays.
