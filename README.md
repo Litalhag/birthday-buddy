@@ -20,7 +20,8 @@ This application, crafted during a comprehensive Udemy tutorial, presents a conc
 
 ## Setup
 
-1. Clone the repository to your local machine [link]('https://github.com/Litalhag/birthday-buddy')
+1. 1. Clone the repository to your local machine [here](https://github.com/Litalhag/birthday-buddy).
+
 2. Navigate to the project directory.
 3. Run `npm install` to install dependencies.
 4. Run `npm start` to start the development server.
